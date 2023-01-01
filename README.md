@@ -2,9 +2,9 @@
 
 ### I'm Ricardo Kanashiro
 
-<div style='margin-top: 10px'>
-    <img height='180em' width='240em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight'>
-    <img height='180em' width='240em' src='https://github-readme-stats.vercel.app/api?username=ricardokanashiro&layout=compact&theme=dark&show_icons=true'>
+<div style='margin-top: 5px'>
+    <img height='150px' width='240px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight'>
+    <img height='150px' width='240px' src='https://github-readme-stats.vercel.app/api?username=ricardokanashiro&layout=compact&theme=dark&show_icons=true'>
 </div>
 
 <div>
