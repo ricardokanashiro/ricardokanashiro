@@ -3,8 +3,8 @@
 ### I'm Ricardo Kanashiro
 
 <div style='margin-top: 5px'>
-    <img height='150px' width='240px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight'>
-    <img height='150px' width='240px' src='https://github-readme-stats.vercel.app/api?username=ricardokanashiro&layout=compact&theme=dark&show_icons=true'>
+    <img width='440em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight'>
+    <img width='440em' src='https://github-readme-stats.vercel.app/api?username=ricardokanashiro&layout=compact&theme=dark&show_icons=true'>
 </div>
 
 <div>
