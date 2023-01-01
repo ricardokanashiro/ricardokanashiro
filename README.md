@@ -2,7 +2,7 @@
 
 ### I'm Ricardo Kanashiro
 
-<div style='margin-top: 60px'>
+<div style='margin-top: 60px;'>
     <img height='175em' src='https://github-readme-stats.vercel.app/api?username=ricardokanashiro&layout=compact&theme=dark&show_icons=true'>
     <img height='175em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight'>
 </div>
