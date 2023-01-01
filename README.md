@@ -2,7 +2,7 @@
 
 ### I'm Ricardo Kanashiro
 
-<div style='display: flex; align-items: center; justify-content: center'>
+<div style='display: flex; align-items: center; justify-content: center; background-color:red; width: 100%'>
     <img height='180em' src='https://github-readme-stats.vercel.app/api?username=ricardokanashiro&layout=compact&theme=dark&show_icons=true'>
     <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight'>
 </div>
