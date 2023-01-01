@@ -6,6 +6,8 @@
 - On Focus: React and React Native 🗺️
 - I want to become a Full-Stack Developer 🔭
 
+##
+
 <div>
     <img height='175em' src='https://github-readme-stats.vercel.app/api?username=ricardokanashiro&layout=compact&theme=dark&show_icons=true'>
     <img height='175em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight'>
