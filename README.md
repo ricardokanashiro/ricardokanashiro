@@ -3,11 +3,6 @@
 ### I'm Ricardo Kanashiro
 
 
-a
-
-
-
-a
 
 <div>
     <img height='175em' src='https://github-readme-stats.vercel.app/api?username=ricardokanashiro&layout=compact&theme=dark&show_icons=true'>
