@@ -2,7 +2,9 @@
 
 ### I'm Ricardo Kanashiro
 
-
+- Actually I'm a Web Developer 🌐
+- On Focus: React and React Native 🗺️
+- I want to become a Full-Stack Developer 🔭
 
 <div>
     <img height='175em' src='https://github-readme-stats.vercel.app/api?username=ricardokanashiro&layout=compact&theme=dark&show_icons=true'>
