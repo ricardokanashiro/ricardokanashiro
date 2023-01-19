@@ -2,7 +2,7 @@
 
 ### I'm Ricardo Kanashiro
 
-- At the moment I'm a Web Developer 🌐
+- At the moment I'm a Front-end Web Developer 🌐
 - On Focus: React and React Native 🗺️
 - I want to become a Full-Stack Developer 🔭
 
