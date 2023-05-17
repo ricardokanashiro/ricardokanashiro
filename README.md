@@ -9,7 +9,7 @@
 ##
 
 <div align="center">
-    <img height='160em' src='https://github-readme-stats-git-master-ricardokanashiro.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight'>
+    <img height='160em' src='https://github-readme-stats-git-master-ricardokanashiro.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight&hide_progress=true'>
 </div>
 
 ##
