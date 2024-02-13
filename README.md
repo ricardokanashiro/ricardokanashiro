@@ -8,7 +8,7 @@
 
 ##
 
-<div">
+<div>
     <br />
     <img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight' />
     &nbsp;
