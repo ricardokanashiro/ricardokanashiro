@@ -6,7 +6,9 @@
 - On Focus: React, NodeJs and Design Skills with Figma 🗺️
 - I want to become a Full-Stack Developer 🔭
 
-##
+<br />
+
+## Destaques
 
 <br />
 <a href="https://github.com/ricardokanashiro/RiK-Finances"><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Finances&theme=tokyonight" /></a>
