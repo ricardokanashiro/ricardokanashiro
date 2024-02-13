@@ -8,10 +8,12 @@
 
 ##
 
-<div align="center">
+<div">
     <br />
-    <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight' />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardokanashiro&show_icons=true&theme=cobalt" />
+    <img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight' />
+    &nbsp;
+    &nbsp;
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ricardokanashiro&show_icons=true&theme=cobalt" />
     <br />
 </div>
 
