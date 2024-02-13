@@ -9,10 +9,10 @@
 ##
 
 <br />
-<a href=""><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Finances&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/RiK-Finances"><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Finances&theme=tokyonight" /></a>
 &nbsp;
 &nbsp;
-<a href=""><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/Bookmark-Landing-Page"><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
 <br />
 <br />
 
