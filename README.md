@@ -8,15 +8,12 @@
 
 ##
 
-<div>
-    <br />
-    <img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight' />
-    &nbsp;
-    &nbsp;
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ricardokanashiro&show_icons=true&theme=cobalt" />
-    <br />
-</div>
-
+<br />
+<a href=""><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Finances&theme=tokyonight" /></a>
+&nbsp;
+&nbsp;
+<a href=""><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
+<br />
 <br />
 
 ## Minha Tech Stack
@@ -56,6 +53,19 @@
 <a href=""><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /></a>
 &nbsp;
 <a href=""><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
+
+<br />
+
+##
+
+<div>
+    <br />
+    <img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight' />
+    &nbsp;
+    &nbsp;
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ricardokanashiro&show_icons=true&theme=cobalt" />
+    <br />
+</div>
 
 <br />
 
