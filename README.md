@@ -82,7 +82,7 @@
 &nbsp;
 <a href="https://www.instagram.com/kanashiro_ricardo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 &nbsp;
-<a href="https://www.frontendmentor.io/profile/ricardokanashiro"><img src="https://img.shields.io/badge/Front_End_Mentor-9933CC?style=for-the-badge" /></a>
+<a href="https://www.frontendmentor.io/profile/ricardokanashiro"><img src="https://img.shields.io/badge/Front_End_Mentor-5374b2?style=for-the-badge" /></a>
 
 <!--
     <div align="center">
