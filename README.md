@@ -1,69 +1,21 @@
-## Salve! 👋
+<img src="./wave2.png" width="100%" />
 
-### I'm Ricardo Kanashiro
+<div align="center">
+    <h1>Salve! 👋 I'm Ricardo Kanashiro</h1>
+</div>
 
-- At the moment I'm a Front-end Web Developer 🌐
-- On Focus: React, NodeJs and Design Skills with Figma 🗺️
-- I want to become a Full-Stack Developer 🔭
-
-<br />
-
-## Destaques
-
-<br />
-<a href="https://github.com/ricardokanashiro/RiK-Finances"><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Finances&theme=tokyonight" /></a>
-&nbsp;
-&nbsp;
-<a href="https://github.com/ricardokanashiro/UrlShortenerAPI"><img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=UrlShortenerAPI&theme=tokyonight" /></a>
-<br />
-<br />
-
-## Minha Tech Stack
+<div align="center">    
+    • Full-Stack Dev
+    • ADS Student
+</div>
 
 <br />
 
-### Front-end
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-&nbsp;
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-&nbsp;
-<a href="https://sass-lang.com/documentation/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></a>
-&nbsp;
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-&nbsp;
-<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-
-### Back-end 
-
-<a href="https://nodejs.org/docs/latest/api/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-&nbsp;
-<a href="https://fastify.dev/docs/latest/"><img src="https://img.shields.io/badge/Fastify-00000F?style=for-the-badge&logo=fastify&logoColor=white" /></a>
-&nbsp;
-&nbsp;
-<a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-&nbsp;
-<!--<a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>-->
-
-### Others 
-
-<a href="https://reactnative.dev/docs/getting-started"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-&nbsp;
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-&nbsp;
-<a href="https://eslint.org/docs/latest/"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" /></a>
-&nbsp;
-<a href="https://prettier.io/"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /></a>
-&nbsp;
-<a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
-
-<br />
-
-##
-
-<div>
+<div align="center">
     <br />
     <img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight' />
+    &nbsp;
+    &nbsp;
     &nbsp;
     &nbsp;
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ricardokanashiro&show_icons=true&theme=tokyonight" />
@@ -71,8 +23,76 @@
 </div>
 
 <br />
+<br />
+<br />
+<br />
 
-## Conecte-se Comigo
+<div align="center">
+    <br />
+    <h2>Top Projects</h2>
+    <br />
+    
+<a href="https://github.com/ricardokanashiro/RiK-Finances"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Finances&theme=tokyonight" /></a>
+&nbsp;
+&nbsp;
+<a href="https://github.com/ricardokanashiro/UrlShortenerAPI"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=UrlShortenerAPI&theme=tokyonight" /></a>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+    <h2>My Tech Stack</h2>
+    <h3>Front-end</h3>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" /></a>
+&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" /></a>
+&nbsp;
+<a href="https://sass-lang.com/documentation/"><img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass&logoColor=CC6699" /></a>
+&nbsp;
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
+&nbsp;
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=01d0f7" /></a>
+
+<h3>Back-end</h3> 
+
+<a href="https://nodejs.org/docs/latest/api/"><img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=56b261" /></a>
+&nbsp;
+<a href="https://fastify.dev/docs/latest/"><img src="https://img.shields.io/badge/Fastify-00000F?style=for-the-badge&logo=fastify&logoColor=white" /></a>
+&nbsp;
+&nbsp;
+<a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192" /></a>
+&nbsp;
+<!--<a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>-->
+
+<h3>Others</h3> 
+
+<a href="https://reactnative.dev/docs/getting-started"><img src="https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=01d0f7" /></a>
+&nbsp;
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E" /></a>
+&nbsp;
+<a href="https://eslint.org/docs/latest/"><img src="https://img.shields.io/badge/eslint-000?style=for-the-badge&logo=eslint&logoColor=3A33D1" /></a>
+&nbsp;
+<a href="https://prettier.io/"><img src="https://img.shields.io/badge/prettier-000?style=for-the-badge&logo=prettier&logoColor=1A2C34" /></a>
+&nbsp;
+<a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=E44C30" /></a>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+    <br />
+    <h2>Working On</h2>
+    <br />
+    
+<a href="https://github.com/ricardokanashiro/Multi-Step-Form"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=Multi-Step-Form&theme=tokyonight" /></a>
+</div>
+
+<br />
+<br />
+
+## Connect with Me
 
 <br />
 
@@ -83,6 +103,10 @@
 <a href="https://www.instagram.com/kanashiro_ricardo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.frontendmentor.io/profile/ricardokanashiro"><img src="https://img.shields.io/badge/Front_End_Mentor-5374b2?style=for-the-badge" /></a>
+
+<br />
+
+<img src="./wave1.png" width="100%" />
 
 <!--
     <div align="center">
