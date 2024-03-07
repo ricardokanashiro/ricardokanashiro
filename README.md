@@ -38,7 +38,6 @@
 </div>
 
 <br />
-<br />
 
 <div align="center">
     <h2>My Tech Stack</h2>
@@ -77,7 +76,6 @@
 <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=E44C30" /></a>
 </div>
 
-<br />
 <br />
 
 <div align="center">
