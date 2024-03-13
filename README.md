@@ -51,6 +51,10 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 &nbsp;
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=01d0f7" /></a>
+&nbsp;
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+&nbsp;
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" /></a>
 
 <h3>Back-end</h3> 
 
@@ -58,10 +62,9 @@
 &nbsp;
 <a href="https://fastify.dev/docs/latest/"><img src="https://img.shields.io/badge/Fastify-00000F?style=for-the-badge&logo=fastify&logoColor=white" /></a>
 &nbsp;
-&nbsp;
 <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192" /></a>
 &nbsp;
-<!--<a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>-->
+<a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /></a>
 
 <h3>Others</h3> 
 
