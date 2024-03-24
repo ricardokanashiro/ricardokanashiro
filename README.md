@@ -31,10 +31,10 @@
     <h2>Top Projects</h2>
     <br />
     
-<a href="https://github.com/ricardokanashiro/RiK-Finances"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Finances&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/RiK-Countries"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Countries&theme=tokyonight" /></a>
 &nbsp;
 &nbsp;
-<a href="https://github.com/ricardokanashiro/UrlShortenerAPI"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=UrlShortenerAPI&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/UrlShortenerAPI"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
 </div>
 
 <br />
@@ -86,7 +86,7 @@
     <h2>Working On</h2>
     <br />
     
-<a href="https://github.com/ricardokanashiro/RiK-Countries"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Countries&theme=tokyonight" /></a>
+
 </div>
 
 <br />
