@@ -86,7 +86,7 @@
     <h2>Working On</h2>
     <br />
     
-
+<a href="https://github.com/ricardokanashiro/RiK-Tasks"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Tasks&theme=tokyonight" /></a>
 </div>
 
 <br />
