@@ -34,7 +34,7 @@
 <a href="https://github.com/ricardokanashiro/RiK-Countries"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Countries&theme=tokyonight" /></a>
 &nbsp;
 &nbsp;
-<a href="https://github.com/ricardokanashiro/UrlShortenerAPI"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/Bookmark-Landing-Page"><img height="140em" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
 </div>
 
 <br />
