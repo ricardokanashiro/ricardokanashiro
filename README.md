@@ -31,7 +31,7 @@
     <h2>Top Projects</h2>
     <br />
     
-<a href="https://github.com/ricardokanashiro/RiK-Countries"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=RiK-Countries&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/UrlShortenerAPI"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=UrlShortenerAPI&theme=tokyonight" /></a>
 &nbsp;
 &nbsp;
 <a href="https://github.com/ricardokanashiro/Bookmark-Landing-Page"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
