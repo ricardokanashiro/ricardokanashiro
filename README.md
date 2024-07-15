@@ -33,7 +33,6 @@
     
 <a href="https://github.com/ricardokanashiro/UrlShortenerAPI"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=UrlShortenerAPI&theme=tokyonight" /></a>
 &nbsp;
-&nbsp;
 <a href="https://github.com/ricardokanashiro/Bookmark-Landing-Page"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
 </div>
 
@@ -86,7 +85,9 @@
     <h2>Working On</h2>
     <br />
     
-<a href="https://github.com/ricardokanashiro/DoIT"><img height="140em" width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=DoIT&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/DoIT"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=DoIT&theme=tokyonight" /></a>
+&nbsp;
+<a href="https://github.com/ricardokanashiro/api-clinica-glowing-smile"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=api-clinica-glowing-smile&theme=tokyonight" /></a>
 </div>
 
 <br />
