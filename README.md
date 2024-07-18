@@ -59,7 +59,7 @@
 
 <a href="https://nodejs.org/docs/latest/api/"><img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=56b261" /></a>
 &nbsp;
-<a href="https://fastify.dev/docs/latest/"><img src="https://img.shields.io/badge/Fastify-00000F?style=for-the-badge&logo=fastify&logoColor=white" /></a>
+<a href="https://fastify.dev/docs/latest/"><img src="https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify&logoColor=white" /></a>
 &nbsp;
 <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192" /></a>
 &nbsp;
