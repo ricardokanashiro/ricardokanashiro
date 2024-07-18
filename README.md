@@ -64,6 +64,8 @@
 <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192" /></a>
 &nbsp;
 <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B" /></a>
+&nbsp;
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=0f3e63" /></a>
 
 <h3>Others</h3> 
 
