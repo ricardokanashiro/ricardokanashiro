@@ -13,12 +13,12 @@
 
 <div align="center">
     <br />
-    <img height='170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight' />
+    <img height='170em' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardokanashiro&layout=compact&theme=tokyonight' />
     &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ricardokanashiro&show_icons=true&theme=tokyonight" />
+    <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardokanashiro&show_icons=true&theme=tokyonight" />
     <br />
 </div>
 
@@ -31,9 +31,9 @@
     <h2>Top Projects</h2>
     <br />
     
-<a href="https://github.com/ricardokanashiro/UrlShortenerAPI"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=UrlShortenerAPI&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/UrlShortenerAPI"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=UrlShortenerAPI&theme=tokyonight" /></a>
 &nbsp;
-<a href="https://github.com/ricardokanashiro/Bookmark-Landing-Page"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/Bookmark-Landing-Page"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
 </div>
 
 <br />
@@ -87,9 +87,9 @@
     <h2>Working On</h2>
     <br />
     
-<a href="https://github.com/ricardokanashiro/DoIT"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=DoIT&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/DoIT"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=DoIT&theme=tokyonight" /></a>
 &nbsp;
-<a href="https://github.com/ricardokanashiro/api-clinica-glowing-smile"><img height="140em" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ricardokanashiro&repo=api-clinica-glowing-smile&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/api-clinica-glowing-smile"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=api-clinica-glowing-smile&theme=tokyonight" /></a>
 </div>
 
 <br />
