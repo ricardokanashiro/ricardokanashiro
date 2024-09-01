@@ -57,11 +57,17 @@
 
 <a href="https://nodejs.org/docs/latest/api/"><img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=56b261" /></a>
 &nbsp;
-<a href="https://fastify.dev/docs/latest/"><img src="https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify&logoColor=white" /></a>
+<a href="https://fastify.dev/docs/latest/"><img src="https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=c&logoColor=1A2C34" /></a>
+&nbsp;
+<a href="https://fastify.dev/docs/latest/"><img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=.net&logoColor=1A2C34" /></a>
+&nbsp;
+<a href="https://fastify.dev/docs/latest/"><img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" /></a>
 &nbsp;
 <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=316192" /></a>
 &nbsp;
 <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=0f3e63" /></a>
+&nbsp;
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=1572B6" /></a>
 
 <h3>Others</h3> 
 
