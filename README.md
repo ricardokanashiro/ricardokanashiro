@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">    
-    • Full-Stack Dev
+    • Software Developer
     • ADS Student
 </div>
 
