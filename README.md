@@ -31,9 +31,9 @@
     <h2>Top Projects</h2>
     <br />
     
-<a href="https://github.com/ricardokanashiro/api-clinica-veterinaria"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=api-clinica-veterinaria&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/Bauci-Web"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=Bauci-Web&theme=tokyonight" /></a>
 &nbsp;
-<a href="https://github.com/ricardokanashiro/Bookmark-Landing-Page"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=Bookmark-Landing-Page&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/BauciAPI"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=BauciAPI&theme=tokyonight" /></a>
 </div>
 
 <br />
