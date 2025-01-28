@@ -89,9 +89,7 @@
     <h2>Working On</h2>
     <br />
     
-<a href="https://github.com/ricardokanashiro/DoIT"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=DoIT&theme=tokyonight" /></a>
-&nbsp;
-<a href="https://github.com/ricardokanashiro/BauciAPI"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=BauciAPI&theme=tokyonight" /></a>
+<a href="https://github.com/ricardokanashiro/ApiClinicaVeterinaria"><img height="140em" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ricardokanashiro&repo=ApiClinicaVeterinaria&theme=tokyonight" /></a>
 </div>
 
 <br />
